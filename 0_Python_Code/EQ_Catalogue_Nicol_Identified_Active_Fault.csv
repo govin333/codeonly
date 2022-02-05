@@ -1,0 +1,7 @@
+FID,Mag,Year,month,day,hour,min,sec,depth,long,lat,Eqrthquake Name,Earthquake Mechanism
+1,7.6,1848,1,1,1,1,1,1,1,1,Marlborough,SS
+2,8.2,1855,1,1,1,1,1,1,1,1,Wairarapa,SS
+3,7.3,1888,1,1,1,1,1,1,1,1,North Canteburry,SS
+4,7.8,1931,1,1,1,1,1,1,1,1,Hawkes Bay,R
+5,7.4,1934,1,1,1,1,1,1,1,1,Horoeka,SS
+6,7.8,2016,1,1,1,1,1,1,1,1,Kaikora,
